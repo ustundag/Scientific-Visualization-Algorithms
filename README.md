@@ -4,6 +4,6 @@
 
 This algorithm creates polygon triangulation simply by checking whether there is an intersection between edges of closest pairs, updating convex hull.
 
-Before and after triangulation;
+Before and after triangulation ([vtk library](http://www.vtk.org/Wiki/VTK/Tutorials/PythonEnvironmentSetup) used for visualization);
 
 ![asd](https://cloud.githubusercontent.com/assets/9117459/26755669/8ebc76e8-4892-11e7-9630-2bf154e56abb.png)
