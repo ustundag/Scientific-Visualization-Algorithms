@@ -1,1 +1,1 @@
-# Scientific-Visualization-Algorithms
+# Scientific Visualization Algorithms
